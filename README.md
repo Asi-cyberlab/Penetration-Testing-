@@ -32,25 +32,26 @@ This repository contains one of my cybersecurity lab projects where I practiced 
 - At least 50GB free disk space
 - VT-x/AMD-V enabled in BIOS
 
-🖥️ Virtual Lab Setup
-Created virtual machines using VirtualBox
-Installed and configured Kali Linux
-Built a basic lab environment for security testing
-🌐 Network Scanning
-Practiced scanning a network to identify active devices, open ports, and running services using Nmap.
-🔎 Vulnerability Assessment
-Learned how vulnerability scanning can help identify potential security weaknesses.
-🌍 Web Application Security
-Explored basic web application security concepts using the OWASP Testing Guide.
-🔑 Authentication Security
-Learned about password security, authentication risks, and the importance of strong security controls.
-🎯 Skills Practiced
-Virtual Lab Setup
-Kali Linux Basics
-Network Scanning
-Vulnerability Assessment
-Web Application Security
-Security Fundamentals
+# 🖥️ Virtual Lab Setup
+- Created virtual machines using VirtualBox
+- Installed and configured Kali Linux
+- Built a basic lab environment for security testing
+- Network Scanning
+- Practiced scanning a network to identify active devices, open ports, and running services using Nmap.
+# 🔎 Vulnerability Assessment
+- Learned how vulnerability scanning can help identify potential security weaknesses.
+# 🌍 Web Application Security
+- Explored basic web application security concepts using the OWASP Testing Guide.
+# 🔑 Authentication Security
+- Learned about password security, authentication risks, and the importance of strong security controls.
+
+# 🎯 Skills Practiced
+-Virtual Lab Setup
+-Kali Linux Basics
+-Network Scanning
+-Vulnerability Assessment
+-Web Application Security
+-Security Fundamentals
 
 ⚠️ Disclaimer
 
