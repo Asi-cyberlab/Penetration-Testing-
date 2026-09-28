@@ -1,6 +1,6 @@
 # Penetration Testing Project
 
-## 📋 Project Overview
+##  Project Overview
 This repository contains one of my cybersecurity lab projects where I practiced basic penetration testing concepts in a virtual lab environment.The goal of this project was to learn how security professionals identify vulnerabilities, assess network security, and understand common security risks using industry-standard tools.
 
 -  📚 Learning Objectives
@@ -11,7 +11,7 @@ This repository contains one of my cybersecurity lab projects where I practiced 
 *Learned about SQL injection and how it can affect web applications.
 *Explored password security and authentication concepts in a controlled lab environment.
 
-- ## 🛠 Tools Used
+- ##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -22,7 +22,7 @@ This repository contains one of my cybersecurity lab projects where I practiced 
 | **SQL Injection Tools** | Database vulnerability testing |
 
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 
@@ -32,20 +32,20 @@ This repository contains one of my cybersecurity lab projects where I practiced 
 - At least 50GB free disk space
 - VT-x/AMD-V enabled in BIOS
 
-# 🖥️ Virtual Lab Setup
+#  Virtual Lab Setup
 - Created virtual machines using VirtualBox
 - Installed and configured Kali Linux
 - Built a basic lab environment for security testing
 - Network Scanning
 - Practiced scanning a network to identify active devices, open ports, and running services using Nmap.
-# 🔎 Vulnerability Assessment
+#  Vulnerability Assessment
 - Learned how vulnerability scanning can help identify potential security weaknesses.
-# 🌍 Web Application Security
+#  Web Application Security
 - Explored basic web application security concepts using the OWASP Testing Guide.
-# 🔑 Authentication Security
+#  Authentication Security
 - Learned about password security, authentication risks, and the importance of strong security controls.
 
-# 🎯 Skills Practiced
+#  Skills Practiced
 -Virtual Lab Setup
 -Kali Linux Basics
 -Network Scanning
