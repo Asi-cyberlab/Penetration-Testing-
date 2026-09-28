@@ -3,7 +3,7 @@
 ##  Project Overview
 This repository contains one of my cybersecurity lab projects where I practiced basic penetration testing concepts in a virtual lab environment.The goal of this project was to learn how security professionals identify vulnerabilities, assess network security, and understand common security risks using industry-standard tools.
 
--  📚 Learning Objectives
+-   Learning Objectives
 * Built a virtual lab environment using VirtualBox and Kali Linux.
 *Practiced basic network scanning using Nmap.
 *Learned how vulnerability assessments help identify security weaknesses.
